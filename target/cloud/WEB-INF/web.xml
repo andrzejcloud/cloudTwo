@@ -10,7 +10,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>helloCloud</servlet-name>
-        <url-pattern>/*</url-pattern>
+        <url-pattern>/cloud</url-pattern>
     </servlet-mapping>
 
 </web-app>

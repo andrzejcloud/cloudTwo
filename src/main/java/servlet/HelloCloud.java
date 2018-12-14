@@ -16,6 +16,6 @@ public class HelloCloud extends HttpServlet {
 
         // Actual logic goes here.
         PrintWriter out = response.getWriter();
-        out.println("<h1>" + "hello from cloud" + "</h1>");
+        out.println("<h1>" + "hello from cloud 23/11/2018" + "</h1>");
     }
 }
